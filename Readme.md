@@ -7,7 +7,7 @@ This repository contains an extended version of the Microgrid Library. In this e
 ## New Features
 
 ### 1. **Activation Functions**
-   - **ReLU (Rectified Linear Unit):** Added as an activation function to hanMLP dle non-linearity efficiently.
+   - **ReLU (Rectified Linear Unit):** Added as an activation function.
    - **Sigmoid:** Added for applications requiring probabilistic outputs or binary classification.
 
 ### 2. **Weight Initialization**
@@ -44,4 +44,4 @@ Ensure you have the following installed:
 - Python 3.8 or higher
 - Jupyter Notebook
 - NumPy
-- scikit-learna
+- scikit-learn
